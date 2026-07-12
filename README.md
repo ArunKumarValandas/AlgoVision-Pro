@@ -290,21 +290,3 @@ If you found this project helpful:
 ---
 
 Made with ❤️ using React, Vite & Tailwind CSS.
-=======
-# 🥩 Protein Foods List
-
-A simple and responsive HTML & CSS project that displays **Vegetarian** and **Non-Vegetarian** protein-rich foods in two categories.
-
-## 📌 Features
-
-- Clean and simple UI
-- Two-column layout using Flexbox
-- Separate categories for Vegetarian and Non-Vegetarian foods
-- Rounded cards with shadow effects
-- Beginner-friendly HTML and CSS project
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
->>>>>>> b54b74a6c75ab38364f5bd015413dce6e90594bc
